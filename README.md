@@ -1,4 +1,4 @@
-# aks-terraform
+# aks-terraform-starter
 
 This terraform code deploys a minimal AKS cluster.
 
